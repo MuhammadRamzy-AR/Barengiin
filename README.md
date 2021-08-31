@@ -10,4 +10,4 @@ Tim Melaneils:
 2. Hendra Pratik Aditama
 3. Muhammad Ramzy Alfinrizq Ramadhan
 
-![alt text](https://github.com/MuhammadRamzy-AR/Barengiin/blob/main/Poster Barengiin Melaneils.jpg?raw=true)
+![alt text](https://github.com/MuhammadRamzy-AR/Barengiin/blob/main/Poster_Barengiin_Melaneils.jpg?raw=true)
