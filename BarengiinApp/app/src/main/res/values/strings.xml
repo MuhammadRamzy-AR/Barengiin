@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Barengiin App</string>
+    <string name="title_beranda">Beranda</string>
+    <string name="title_riwayat">Riwayat</string>
+    <string name="title_favorit">Favorit</string>
+    <string name="title_profil">Profile</string>
+    <string name="main_title_content">Apa yang kamu butuhkan?</string>
+    <string name="this_is_favourite_fragment">fav_fragment</string>
+    <string name="this_is_history_fragment">history_fragment</string>
+    <string name="hello_blank_fragment">blank_fragment</string>
+    <string name="tumpangan">Tumpangan</string>
+    <string name="wisata">Wisata</string>
+    <string name="today_news">Berita hari ini</string>
+    <string name="recommmended_places">Destinasi Wisata Pilihan</string>
+    <string name="baca_petunjuk_keamanan_dulu_yuk">Baca petunjuk keamanan dulu, yuk!</string>
+    <string name="cara_mengatasi_keadaan_darurat">Cara mengatasi keadaan darurat</string>
+    <string name="barengiin_news">BARENGIIN NEWS</string>
+    <string name="waspada_penularan_covid_19">Waspada penularan COVID-19</string>
+    <string name="cek_pencegahannya_di_sini">Cek pencegahannya di sini</string>
+    <string name="aktivitas">aktivitas</string>
+    <string name="tambah_diskusi">Tambah diskusi</string>
+    <string name="laporkan">Laporkan</string>
+    <string name="direct_message">Direct Message</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string-array name="newsImage">
+        <item>@drawable/news1</item>
+        <item>@drawable/news2</item>
+        <item>@drawable/news3</item>
+        <item>@drawable/news4</item>
+        <item>@drawable/news5</item>
+    </string-array>
+
+    <string-array name="newsTitle">
+        <item>Menparekraf Siapkan Protokol New Normal untuk Tempat Wisata</item>
+        <item>Indonesia Keren Part 2, Destinasi Wisata Jawa Timur dengan Rasa Luar Negeri</item>
+        <item>Surga Tersembunyi di Leuwi Kanjeng Dalem Garut</item>
+        <item>Ridwan Kamil Bakal Tes Swab Wisatawan Secara Acak di Jabar</item>
+        <item>9 Tempat Wisata di Indonesia yang Bisa Kamu Kunjungi saat New Normal</item>
+    </string-array>
+
+    <string-array name="recommendedImage">
+        <item>@drawable/recommended1</item>
+        <item>@drawable/recommended2</item>
+        <item>@drawable/recommended3</item>
+        <item>@drawable/recommended4</item>
+        <item>@drawable/recommended5</item>
+    </string-array>
+
+    <string-array name="recommendedTitle">
+        <item>Pulau Komodo</item>
+        <item>Raja Ampat</item>
+        <item>Bali</item>
+        <item>Taman Laut Bunaken</item>
+        <item>Candi Borobudur</item>
+    </string-array>
+
+    <string-array name="favoriteTitle">
+        <item>Pantai Kuta</item>
+        <item>Orchid Forest Cikole</item>
+        <item>Dieng</item>
+        <item>Danau Toba</item>
+        <item>Karimunjawa</item>
+    </string-array>
+
+    <string-array name="favoriteImage">
+        <item>@drawable/fav_kuta</item>
+        <item>@drawable/fav_orchid</item>
+        <item>@drawable/fav_dieng</item>
+        <item>@drawable/fav_toba</item>
+        <item>@drawable/fav_karimunjawa</item>
+    </string-array>
+
+    <string-array name="destinationTitle">
+        <item>Pantai Sedahan</item>
+        <item>Pantai Nglambor</item>
+        <item>Bukit Pengilon</item>
+        <item>Pantai Timang</item>
+        <item>Pantai Kesirat</item>
+    </string-array>
+
+    <string-array name="destinationDescription">
+        <item>Pantai Sedahan merupakan salah satu pantai berpasir putih di antara barisan pantai pantai indah Gunungkidul. Kepopuleran pantai ini terutama diperoleh dari bentangan Pasir pantai ini berwarna putih. Dan juga adanya dua tebing karang menjorok ke tengah laut, membentengi sisi kanan dan kiri pantai. Pengunjung juga dapat menuju ke puncak tebing karang.</item>
+        <item>Berbeda dengan pantai-pantai Gunungkidul lainnya, di Pantai Nglambor kamu tidak hanya bisa berenang namun juga bisa menjajal aktivitas snorkeling. Bermodalkan snorkel, kamu bisa melihat indahnya kehidupan di bawah laut. Tak perlu takut terhempas ombak ganas, sebab jauh di depan ada dua pulau karang berbentuk kura-kura raksasa yang siap menjadi penjaga.</item>
+        <item>Bukit Pengilon adalah salah satu spot wisata alam Jogja yang memiliki keindahan yang luar biasa. Meskipun bukit, spot wisata ini berada di area Pantai di Jogja yang berada di pesisir selatan, yaitu daerah Gunung Kidul. Biasanya, spot wisata alam yang asri berada di area utara Jogja dekat Gunung Merapi atau berada di barat Jogja.</item>
+        <item>Pantai Timang terletak di Pedukuhan Danggolo, Desa Purwodadi, Kecamatan Tepus, Kabupaten Gunung Kidul, Yogyakarta. Daya tarik wisata ini justru bukan terletak di pantai ataupun keindahan lautnya, tapi para pengunjung lebih tertarik akan wahana dan pulau kecil yang ada di sebrang pantai. Sebenarnya bukanlah gondola dan jembatan gantung yang di tekankan untuk menjadi daya tarik wisata di pantai ini.</item>
+        <item>Meski tidak memiliki hamparan pasir putih nan lembut, Pantai Kesirat selalu berhasil memikat siapa pun yang datang. Di pantai yang berupa tebing ini, kamu akan disuguhi pemandangan senja yang menawan lengkap dengan pohon tunggal yang menjadi ikon Pantai ini.</item>
+    </string-array>
+
+
+    <string-array name="destinationImage">
+        <item>@drawable/dest_sedahan</item>
+        <item>@drawable/dest_nglambor</item>
+        <item>@drawable/dest_pengilon</item>
+        <item>@drawable/dest_timang</item>
+        <item>@drawable/dest_kesirat</item>
+    </string-array>
+
+</resources>

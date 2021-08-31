@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#456123</color>
+    <color name="colorPrimaryDark">#C4C4C4</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorButton">#204362</color>
+    <color name="colorButtonCariTumpangan">#002F35</color>
+    <color name="colorButtonBeriTumpangan">#E5E9EA</color>
+    <color name="colorButtonReport">#FA1414</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorDetailTumpangan">#FF6700</color>
+</resources>
